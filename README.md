@@ -21,8 +21,8 @@ npm -v
 ## Quick Start
 ```bash
 # 1) Clone
-git clone <YOUR_REPO_URL>.git
-cd pzgAssignment/app
+git clone https://github.com/abhigit30/weatherApp.git
+
 
 # 2) Install dependencies
 npm install
